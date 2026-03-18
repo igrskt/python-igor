@@ -1,1 +1,1 @@
-# python-igor
+# introducao-ao-python-jogo-da-adivinhacao
